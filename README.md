@@ -1,7 +1,5 @@
 # missingI2C
 All the stuff I2C was missing
-(https://img.shields.io/badge/Build-Passing-green.svg)
-
 
 Missing I2C is a wrapper for various functions that I2C doesn't have on Atmega chips. It is expounded upon as we find more things that we'd like I2C to have. 
 
